@@ -77,7 +77,7 @@ And put them in the folder data using symbolic links if required.
 
 * Usage: `python imagenet_analysis.py <folder>`
 
-## Files that are not supposed to be run (backend)
+## Files that are not supposed to be run
 
 Those are `data_utils.py`, `learning_utils.py`, `model_utils.py`, `plot_utils.py`,
 `imagenet_data/build_db_with_strata.py`, `imagenet_data/convert_mapping_list.py`,
